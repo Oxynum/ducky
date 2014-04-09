@@ -1,0 +1,111 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<WIX>
+  <header/>
+
+  <body>
+    <entry>
+      <keyword>Víctor Valdés Arribas</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/v-valdes</target>
+    </entry>
+    <entry>
+      <keyword>Martín Montoya Torralbo</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/martin_montoya</target>
+    </entry>
+    <entry>
+      <keyword>Gerard Piqué Bernabeu</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/pique</target>
+    </entry>
+    <entry>
+      <keyword>Francesc Fàbregas Soler</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/Fabregas</target>
+    </entry>
+    <entry>
+      <keyword>Carles Puyol Saforcada</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/puyol</target>
+    </entry>
+    <entry>
+      <keyword>Xavier Hernández Creus</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/xavi</target>
+    </entry>
+    <entry>
+      <keyword>Pedro Rodríguez Ledesma</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/pedro</target>
+    </entry>
+    <entry>
+      <keyword>Andrés Iniesta Luján</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/a-iniesta</target>
+    </entry>
+    <entry>
+      <keyword>Alexis Alejandro Sánchez</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/alexis</target>
+    </entry>
+    <entry>
+      <keyword>Lionel Andrés Messi</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/messi</target>
+    </entry>
+    <entry>
+      <keyword>Neymar da Silva Santos Júnior</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/neymar-jr</target>
+    </entry>
+    <entry>
+      <keyword>Jonathan Dos Santos Ramírez</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/dos-santos</target>
+    </entry>
+    <entry>
+      <keyword>Pinto José Manuel</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/pinto</target>
+    </entry>
+    <entry>
+      <keyword>Javier Alejandro Mascherano</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/mascherano</target>
+    </entry>
+    <entry>
+      <keyword>Marc Bartra Aregall</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/Marc_bartra</target>
+    </entry>
+    <entry>
+      <keyword>Sergio Busquets Burgos</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/sergio</target>
+    </entry>
+    <entry>
+      <keyword>Alexandre Song</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/song</target>
+    </entry>
+    <entry>
+      <keyword>Jordi Alba Ramos</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/jordi-alba</target>
+    </entry>
+    <entry>
+      <keyword>Ibrahim Afellay</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/afellay</target>
+    </entry>
+    <entry>
+      <keyword>Cristian Tello Herrera</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/cristian-tello</target>
+    </entry>
+    <entry>
+      <keyword>Adriano Correia Claro</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/adriano</target>
+    </entry>
+    <entry>
+      <keyword>Daniel Alves da Silva</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/alves</target>
+    </entry>
+    <entry>
+      <keyword>Isaac Cuenca López</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/Cuenca</target>
+    </entry>
+    <entry>
+      <keyword>Sergi Roberto Carnicer</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/sergiroberto</target>
+    </entry>
+    <entry>
+      <keyword>Oier Olazábal Paredes</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/players/Oier</target>
+    </entry>
+    <entry>
+      <keyword>Gerardo Daniel Martino</keyword>
+      <target>http://www.fcbarcelona.jp/football/first-team/staff/coaches/martino</target>
+    </entry>
+  </body>
+</WIX>
